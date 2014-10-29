@@ -1,0 +1,36 @@
+
+
+
+
+
+
+
+
+
+h4 {color: aqua; font-size: 18}
+
+#college {color: R:211 G:174 B:94;}
+
+/* found web identity standards page http://www.ucdenver.edu/about/departments/WebServices/Policies/WebIdentityStandards/Requirements/Pages/webcolorpalette.aspx */
+
+#worky {color: rgba(172, 103, 47, 0.98) ;}
+
+#live {color: rgba(219, 0, 0, 0.98);}
+
+#in {color: rgba(235, 241, 255, 0.98);} 
+
+#mexicoword {color: rgba(0, 133, 55, 1);}
+
+#comment {font-style: italic;}
+
+#places {font-size: 36;}
+
+#Erik {font-size: 48;}
+
+#titles {font-size: 48;}
+
+#what {font-size: 24;}
+
+img{border: 8px solid black; box-shadow:20px 20px 50px 20px red;}
+
+/*remember a visited*/
